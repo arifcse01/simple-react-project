@@ -1,0 +1,17 @@
+.player-details img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.player-details{
+    margin-bottom: 20px;
+}
+.button{
+    width: 150px;
+    padding: 10px;
+    background: orange;
+    border: orangered;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
